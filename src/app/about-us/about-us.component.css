@@ -1,0 +1,20 @@
+.float-left{
+ float: left;
+ width: 49%;
+}
+.float-right{
+float: right;
+width: 50%;
+}
+.clear{
+    clear: both;
+}
+p {
+    line-height: 30px;
+    margin-bottom: 10px;
+}
+.mrgin{
+    margin-top: 50px;
+}
+
+
